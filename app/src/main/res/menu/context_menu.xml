@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/voicecall"
+        android:title="Voice call"/>
+    <item
+        android:id="@+id/videocall"
+        android:title="Video call"/>
+    <item
+        android:id="@+id/sms"
+        android:title="SMS"/>
+    <item
+        android:id="@+id/mms"
+        android:title="MMS"/>
+</menu>
